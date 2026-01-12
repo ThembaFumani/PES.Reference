@@ -1,0 +1,17 @@
+/Users/themba/Projects/Dev/PES.Reference/PES.Security/bin/Debug/net9.0/PES.Security.deps.json
+/Users/themba/Projects/Dev/PES.Reference/PES.Security/bin/Debug/net9.0/PES.Security.dll
+/Users/themba/Projects/Dev/PES.Reference/PES.Security/bin/Debug/net9.0/PES.Security.pdb
+/Users/themba/Projects/Dev/PES.Reference/PES.Security/bin/Debug/net9.0/PES.Core.dll
+/Users/themba/Projects/Dev/PES.Reference/PES.Security/bin/Debug/net9.0/PES.Domain.dll
+/Users/themba/Projects/Dev/PES.Reference/PES.Security/bin/Debug/net9.0/PES.Domain.pdb
+/Users/themba/Projects/Dev/PES.Reference/PES.Security/bin/Debug/net9.0/PES.Core.pdb
+/Users/themba/Projects/Dev/PES.Reference/PES.Security/obj/Debug/net9.0/PES.Security.csproj.AssemblyReference.cache
+/Users/themba/Projects/Dev/PES.Reference/PES.Security/obj/Debug/net9.0/PES.Security.GeneratedMSBuildEditorConfig.editorconfig
+/Users/themba/Projects/Dev/PES.Reference/PES.Security/obj/Debug/net9.0/PES.Security.AssemblyInfoInputs.cache
+/Users/themba/Projects/Dev/PES.Reference/PES.Security/obj/Debug/net9.0/PES.Security.AssemblyInfo.cs
+/Users/themba/Projects/Dev/PES.Reference/PES.Security/obj/Debug/net9.0/PES.Security.csproj.CoreCompileInputs.cache
+/Users/themba/Projects/Dev/PES.Reference/PES.Security/obj/Debug/net9.0/PES.Secu.D3C0958B.Up2Date
+/Users/themba/Projects/Dev/PES.Reference/PES.Security/obj/Debug/net9.0/PES.Security.dll
+/Users/themba/Projects/Dev/PES.Reference/PES.Security/obj/Debug/net9.0/refint/PES.Security.dll
+/Users/themba/Projects/Dev/PES.Reference/PES.Security/obj/Debug/net9.0/PES.Security.pdb
+/Users/themba/Projects/Dev/PES.Reference/PES.Security/obj/Debug/net9.0/ref/PES.Security.dll

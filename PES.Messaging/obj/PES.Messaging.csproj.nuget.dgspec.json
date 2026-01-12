@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/themba/Projects/Dev/PES.Reference/PES.Messaging/PES.Messaging.csproj": {}
+  },
+  "projects": {
+    "/Users/themba/Projects/Dev/PES.Reference/PES.Core/PES.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/themba/Projects/Dev/PES.Reference/PES.Core/PES.Core.csproj",
+        "projectName": "PES.Core",
+        "projectPath": "/Users/themba/Projects/Dev/PES.Reference/PES.Core/PES.Core.csproj",
+        "packagesPath": "/Users/themba/.nuget/packages/",
+        "outputPath": "/Users/themba/Projects/Dev/PES.Reference/PES.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/themba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/themba/Projects/Dev/PES.Reference/PES.Domain/PES.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/themba/Projects/Dev/PES.Reference/PES.Domain/PES.Domain.csproj",
+        "projectName": "PES.Domain",
+        "projectPath": "/Users/themba/Projects/Dev/PES.Reference/PES.Domain/PES.Domain.csproj",
+        "packagesPath": "/Users/themba/.nuget/packages/",
+        "outputPath": "/Users/themba/Projects/Dev/PES.Reference/PES.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/themba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/themba/Projects/Dev/PES.Reference/PES.Core/PES.Core.csproj": {
+                "projectPath": "/Users/themba/Projects/Dev/PES.Reference/PES.Core/PES.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/themba/Projects/Dev/PES.Reference/PES.Messaging/PES.Messaging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/themba/Projects/Dev/PES.Reference/PES.Messaging/PES.Messaging.csproj",
+        "projectName": "PES.Messaging",
+        "projectPath": "/Users/themba/Projects/Dev/PES.Reference/PES.Messaging/PES.Messaging.csproj",
+        "packagesPath": "/Users/themba/.nuget/packages/",
+        "outputPath": "/Users/themba/Projects/Dev/PES.Reference/PES.Messaging/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/themba/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/themba/Projects/Dev/PES.Reference/PES.Core/PES.Core.csproj": {
+                "projectPath": "/Users/themba/Projects/Dev/PES.Reference/PES.Core/PES.Core.csproj"
+              },
+              "/Users/themba/Projects/Dev/PES.Reference/PES.Domain/PES.Domain.csproj": {
+                "projectPath": "/Users/themba/Projects/Dev/PES.Reference/PES.Domain/PES.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

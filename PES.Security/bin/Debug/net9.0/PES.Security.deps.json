@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PES.Security/1.0.0": {
+        "dependencies": {
+          "PES.Core": "1.0.0",
+          "PES.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PES.Security.dll": {}
+        }
+      },
+      "PES.Core/1.0.0": {
+        "runtime": {
+          "PES.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PES.Domain/1.0.0": {
+        "dependencies": {
+          "PES.Core": "1.0.0"
+        },
+        "runtime": {
+          "PES.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PES.Security/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PES.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PES.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

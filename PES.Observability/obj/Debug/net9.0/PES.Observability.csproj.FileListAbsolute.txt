@@ -1,0 +1,17 @@
+/Users/themba/Projects/Dev/PES.Reference/PES.Observability/bin/Debug/net9.0/PES.Observability.deps.json
+/Users/themba/Projects/Dev/PES.Reference/PES.Observability/bin/Debug/net9.0/PES.Observability.dll
+/Users/themba/Projects/Dev/PES.Reference/PES.Observability/bin/Debug/net9.0/PES.Observability.pdb
+/Users/themba/Projects/Dev/PES.Reference/PES.Observability/bin/Debug/net9.0/PES.Core.dll
+/Users/themba/Projects/Dev/PES.Reference/PES.Observability/bin/Debug/net9.0/PES.Domain.dll
+/Users/themba/Projects/Dev/PES.Reference/PES.Observability/bin/Debug/net9.0/PES.Domain.pdb
+/Users/themba/Projects/Dev/PES.Reference/PES.Observability/bin/Debug/net9.0/PES.Core.pdb
+/Users/themba/Projects/Dev/PES.Reference/PES.Observability/obj/Debug/net9.0/PES.Observability.csproj.AssemblyReference.cache
+/Users/themba/Projects/Dev/PES.Reference/PES.Observability/obj/Debug/net9.0/PES.Observability.GeneratedMSBuildEditorConfig.editorconfig
+/Users/themba/Projects/Dev/PES.Reference/PES.Observability/obj/Debug/net9.0/PES.Observability.AssemblyInfoInputs.cache
+/Users/themba/Projects/Dev/PES.Reference/PES.Observability/obj/Debug/net9.0/PES.Observability.AssemblyInfo.cs
+/Users/themba/Projects/Dev/PES.Reference/PES.Observability/obj/Debug/net9.0/PES.Observability.csproj.CoreCompileInputs.cache
+/Users/themba/Projects/Dev/PES.Reference/PES.Observability/obj/Debug/net9.0/PES.Obse.616895E4.Up2Date
+/Users/themba/Projects/Dev/PES.Reference/PES.Observability/obj/Debug/net9.0/PES.Observability.dll
+/Users/themba/Projects/Dev/PES.Reference/PES.Observability/obj/Debug/net9.0/refint/PES.Observability.dll
+/Users/themba/Projects/Dev/PES.Reference/PES.Observability/obj/Debug/net9.0/PES.Observability.pdb
+/Users/themba/Projects/Dev/PES.Reference/PES.Observability/obj/Debug/net9.0/ref/PES.Observability.dll
