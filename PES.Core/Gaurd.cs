@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PES.Core
 {
-    public class Gaurd
+    public static class Gaurd
     {
         public static void AgainstNull(object argument, string name)
         {
