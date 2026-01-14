@@ -10,9 +10,9 @@ namespace PES.Core
         public bool IsSuccess { get; }
         public bool IsFailure => !IsSuccess;
         public T Value { get; }
-        public string? Error { get; }
+        public Error? Error { get; }
 
-        protected Result(bool isSuccess, T value, string error)
+        protected Result(bool isSuccess, T value, Error error)
         {
             if (isSuccess && error != null) 
                 throw new InvalidOperationException();
@@ -25,6 +25,6 @@ namespace PES.Core
         }
 
         public static Result<T> Success(T value) => new Result<T>(true, value, null);
-        public static Result<T> Failure(string error) => new Result<T>(false, default, error);
+        public static Result<T> Failure(Error error) => new Result<T>(false, default, error);
     }
 }
