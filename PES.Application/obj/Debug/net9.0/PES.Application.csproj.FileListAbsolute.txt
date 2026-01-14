@@ -15,3 +15,4 @@
 /Users/themba/Projects/Dev/PES.Reference/PES.Application/obj/Debug/net9.0/refint/PES.Application.dll
 /Users/themba/Projects/Dev/PES.Reference/PES.Application/obj/Debug/net9.0/PES.Application.pdb
 /Users/themba/Projects/Dev/PES.Reference/PES.Application/obj/Debug/net9.0/ref/PES.Application.dll
+/Users/themba/Projects/Dev/PES.Reference/PES.Application/obj/Debug/net9.0/PES.Application.sourcelink.json

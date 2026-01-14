@@ -1,0 +1,12 @@
+/Users/themba/Projects/Dev/PES.Reference/PES.Core/bin/Debug/net9.0/PES.Core.deps.json
+/Users/themba/Projects/Dev/PES.Reference/PES.Core/bin/Debug/net9.0/PES.Core.dll
+/Users/themba/Projects/Dev/PES.Reference/PES.Core/bin/Debug/net9.0/PES.Core.pdb
+/Users/themba/Projects/Dev/PES.Reference/PES.Core/obj/Debug/net9.0/PES.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/themba/Projects/Dev/PES.Reference/PES.Core/obj/Debug/net9.0/PES.Core.AssemblyInfoInputs.cache
+/Users/themba/Projects/Dev/PES.Reference/PES.Core/obj/Debug/net9.0/PES.Core.AssemblyInfo.cs
+/Users/themba/Projects/Dev/PES.Reference/PES.Core/obj/Debug/net9.0/PES.Core.csproj.CoreCompileInputs.cache
+/Users/themba/Projects/Dev/PES.Reference/PES.Core/obj/Debug/net9.0/PES.Core.sourcelink.json
+/Users/themba/Projects/Dev/PES.Reference/PES.Core/obj/Debug/net9.0/PES.Core.dll
+/Users/themba/Projects/Dev/PES.Reference/PES.Core/obj/Debug/net9.0/refint/PES.Core.dll
+/Users/themba/Projects/Dev/PES.Reference/PES.Core/obj/Debug/net9.0/PES.Core.pdb
+/Users/themba/Projects/Dev/PES.Reference/PES.Core/obj/Debug/net9.0/ref/PES.Core.dll

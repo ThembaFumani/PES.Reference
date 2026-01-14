@@ -11,8 +11,8 @@ namespace PES.Core
     {
         public static void AgainstNull(object argument, string name)
         {
-            if (argument == null)
-                throw new ArgumentNullException();
+            if (argument is null)
+                throw new ArgumentNullException(name);
         }
 
         public static void AgainstNullOrEmpty(string argument, string name)
@@ -21,10 +21,17 @@ namespace PES.Core
                 throw new ArgumentException($"{name} cannot be null or empty");
         }
 
-        public static void AgainstOutOfRange(int value, int min, int max, string name)
+        public static void AgainstOutOfRange<T>(T value, T min, T max, string name)
+            where T : IComparable<T>
         {
-            if (value < min || value > max)
+            if (value.CompareTo(min) < 0 || value.CompareTo(max) > 0)
                 throw new ArgumentOutOfRangeException(name, $"{name} must be between {min} and {max};.");
+        }
+
+        public static void Againt(bool condition, string message)
+        {
+            if (condition)
+                throw new InvalidOperationException(message);
         }
     }
 }

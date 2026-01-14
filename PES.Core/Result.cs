@@ -1,11 +1,6 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace PES.Core
 {
-    public class Result<T>
+    public sealed class Result<T>
     {
         public bool IsSuccess { get; }
         public bool IsFailure => !IsSuccess;

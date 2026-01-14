@@ -17,3 +17,4 @@
 /Users/themba/Projects/Dev/PES.Reference/PES.Infrastructure/obj/Debug/net9.0/refint/PES.Infrastructure.dll
 /Users/themba/Projects/Dev/PES.Reference/PES.Infrastructure/obj/Debug/net9.0/PES.Infrastructure.pdb
 /Users/themba/Projects/Dev/PES.Reference/PES.Infrastructure/obj/Debug/net9.0/ref/PES.Infrastructure.dll
+/Users/themba/Projects/Dev/PES.Reference/PES.Infrastructure/obj/Debug/net9.0/PES.Infrastructure.sourcelink.json

@@ -111,3 +111,4 @@
 /Users/themba/Projects/Dev/PES.Reference/PES.Tests/obj/Debug/net9.0/PES.Tests.pdb
 /Users/themba/Projects/Dev/PES.Reference/PES.Tests/obj/Debug/net9.0/PES.Tests.genruntimeconfig.cache
 /Users/themba/Projects/Dev/PES.Reference/PES.Tests/obj/Debug/net9.0/ref/PES.Tests.dll
+/Users/themba/Projects/Dev/PES.Reference/PES.Tests/obj/Debug/net9.0/PES.Tests.sourcelink.json

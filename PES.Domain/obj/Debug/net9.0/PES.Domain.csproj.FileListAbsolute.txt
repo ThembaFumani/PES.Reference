@@ -13,3 +13,4 @@
 /Users/themba/Projects/Dev/PES.Reference/PES.Domain/obj/Debug/net9.0/refint/PES.Domain.dll
 /Users/themba/Projects/Dev/PES.Reference/PES.Domain/obj/Debug/net9.0/PES.Domain.pdb
 /Users/themba/Projects/Dev/PES.Reference/PES.Domain/obj/Debug/net9.0/ref/PES.Domain.dll
+/Users/themba/Projects/Dev/PES.Reference/PES.Domain/obj/Debug/net9.0/PES.Domain.sourcelink.json

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace PES.Core
 {
-    public struct Maybe<T>
+    public readonly struct Maybe<T>
     {
         private readonly T _value;
 

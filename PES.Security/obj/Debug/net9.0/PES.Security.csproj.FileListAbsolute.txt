@@ -15,3 +15,4 @@
 /Users/themba/Projects/Dev/PES.Reference/PES.Security/obj/Debug/net9.0/refint/PES.Security.dll
 /Users/themba/Projects/Dev/PES.Reference/PES.Security/obj/Debug/net9.0/PES.Security.pdb
 /Users/themba/Projects/Dev/PES.Reference/PES.Security/obj/Debug/net9.0/ref/PES.Security.dll
+/Users/themba/Projects/Dev/PES.Reference/PES.Security/obj/Debug/net9.0/PES.Security.sourcelink.json

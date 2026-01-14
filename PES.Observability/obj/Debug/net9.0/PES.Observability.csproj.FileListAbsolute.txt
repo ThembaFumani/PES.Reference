@@ -15,3 +15,4 @@
 /Users/themba/Projects/Dev/PES.Reference/PES.Observability/obj/Debug/net9.0/refint/PES.Observability.dll
 /Users/themba/Projects/Dev/PES.Reference/PES.Observability/obj/Debug/net9.0/PES.Observability.pdb
 /Users/themba/Projects/Dev/PES.Reference/PES.Observability/obj/Debug/net9.0/ref/PES.Observability.dll
+/Users/themba/Projects/Dev/PES.Reference/PES.Observability/obj/Debug/net9.0/PES.Observability.sourcelink.json

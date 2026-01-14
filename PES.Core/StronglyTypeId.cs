@@ -6,6 +6,7 @@ namespace PES.Core
 
         protected StronglyTypeId(T value)
         {
+            Gaurd.AgainstNull(value, nameof(value));
             Value = value;
         }
 

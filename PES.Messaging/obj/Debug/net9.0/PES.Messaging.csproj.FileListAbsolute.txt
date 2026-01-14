@@ -15,3 +15,4 @@
 /Users/themba/Projects/Dev/PES.Reference/PES.Messaging/obj/Debug/net9.0/refint/PES.Messaging.dll
 /Users/themba/Projects/Dev/PES.Reference/PES.Messaging/obj/Debug/net9.0/PES.Messaging.pdb
 /Users/themba/Projects/Dev/PES.Reference/PES.Messaging/obj/Debug/net9.0/ref/PES.Messaging.dll
+/Users/themba/Projects/Dev/PES.Reference/PES.Messaging/obj/Debug/net9.0/PES.Messaging.sourcelink.json
