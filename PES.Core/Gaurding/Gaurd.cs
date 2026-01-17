@@ -5,7 +5,7 @@ using System.Runtime.CompilerServices;
 using System.Runtime.Serialization;
 using System.Threading.Tasks;
 
-namespace PES.Core
+namespace PES.Core.Gaurding
 {
     public static class Gaurd
     {

@@ -1,9 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace PES.Domain
+namespace PES.Domain.Common
 {
     public class DomainException : Exception
     {

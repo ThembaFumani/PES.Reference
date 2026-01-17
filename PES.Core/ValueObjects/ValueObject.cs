@@ -1,5 +1,5 @@
 
-namespace PES.Core
+namespace PES.Core.ValueObjects
 {
     public abstract class ValueObject
     {

@@ -1,4 +1,6 @@
-namespace PES.Core
+using PES.Core.Gaurding;
+
+namespace PES.Core.Identity
 {
     public abstract class StronglyTypeId<T>
     {
