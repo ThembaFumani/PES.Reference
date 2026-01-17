@@ -1,4 +1,4 @@
-namespace PES.Core
+namespace PES.Core.Functional
 {
     public sealed class Result<T>
     {
